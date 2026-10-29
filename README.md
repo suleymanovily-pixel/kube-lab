@@ -1,1 +1,1 @@
-- [1.1](https://github.com/ВАШ_АККАУНТ/kube-lab/tree/1.1/1.1)
+- [1.1](https://github.com/suleymanovily-pixel/kube-lab/tree/1.1)
